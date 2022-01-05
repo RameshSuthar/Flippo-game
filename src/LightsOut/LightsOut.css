@@ -1,0 +1,33 @@
+.LightsOut-board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LightsOut-note {
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+.LightsOut-title {
+    text-align: center;
+    font-size: 3.3em;
+    margin-bottom: 0;
+    margin-top: 0;
+    line-height: 1;
+    color: #fff;
+    padding-top: 20px;
+    font-family: Monoton;
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes neon1 {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #1194ff,
+        0 0 70px #0a86eb, 0 0 80px #115cff, 0 0 100px #2911ff, 0 0 150px #6411ff;
+    }
+    to {
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #004bbb,
+        0 0 35px #6411ff, 0 0 40px #8011ff, 0 0 50px #4f0272, 0 0 75px #4c0cb3;
+    }
+  }
