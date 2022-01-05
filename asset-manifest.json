@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Flippo-game/static/css/main.385d4cdc.css",
-    "main.js": "/Flippo-game/static/js/main.a67bc40f.js",
+    "main.js": "/Flippo-game/static/js/main.6686c870.js",
     "index.html": "/Flippo-game/index.html",
     "main.385d4cdc.css.map": "/Flippo-game/static/css/main.385d4cdc.css.map",
-    "main.a67bc40f.js.map": "/Flippo-game/static/js/main.a67bc40f.js.map"
+    "main.6686c870.js.map": "/Flippo-game/static/js/main.6686c870.js.map"
   },
   "entrypoints": [
     "static/css/main.385d4cdc.css",
-    "static/js/main.a67bc40f.js"
+    "static/js/main.6686c870.js"
   ]
 }
